@@ -3,7 +3,8 @@
 I'm Felipe Soto, a Software Android Engineer from Colombia. I'm passionate about technology and innovation and I really enjoy working in multidisciplinary teams.
 
 - 🌱 I’m currently working as Software Developer at MercadoLibre.
-- 🥅 2023 Goals: Become an experienced Android Developer.
+- 🥅 2024 Goals: Help startups and the Android community grow with all the knowledge I have to contribute.
+- 🔭 I’m looking to collaborate on starups.
 - 👀 I’m interesting in Android projects.
 
 <div align="center">
