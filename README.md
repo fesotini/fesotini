@@ -24,6 +24,7 @@ I'm Felipe Soto, a Software Engineer from Colombia. I'm passionate about technol
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-149EF2?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)   
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1793D1?style=for-the-badge&logo=oracle&logoColor=white)
+![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
